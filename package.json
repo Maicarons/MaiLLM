@@ -1,0 +1,15 @@
+{
+  "name": "maillm",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "MaiLLM 端侧多模态小模型：双教师响应蒸馏 + QLoRA 训练流水线",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

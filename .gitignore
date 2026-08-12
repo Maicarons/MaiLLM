@@ -1,0 +1,36 @@
+# ===== 依赖与构建 =====
+node_modules/
+
+# ===== 内部工具目录（非项目交付物）=====
+.workbuddy/
+
+# ===== 模型权重与大文件（绝不入库）=====
+models/
+outputs/
+venv/
+
+# ===== 日志 =====
+logs_*.txt
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ===== 生成的蒸馏数据（运行脚本后产生，非源码，用户可重新生成）=====
+data/kd_qwen_zh.jsonl
+data/kd_gemma_en.jsonl
+data/maillm_train.jsonl
+data/bench_prompts.jsonl
+data/bench_refs.jsonl
+
+# ===== 文档站构建产物 =====
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# ===== 系统 / 编辑器 =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

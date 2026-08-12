@@ -1,0 +1,10 @@
+{"prompt": "Explain the difference between fine-tuning and in-context learning in plain English."}
+{"prompt": "Write a short, friendly email to a colleague postponing a meeting to tomorrow at 10am."}
+{"prompt": "What is mixture-of-experts (MoE)? Give one real-world analogy."}
+{"prompt": "Summarize the key benefits of on-device (edge) AI over cloud-based inference."}
+{"prompt": "Give a Python snippet that flattens a nested list, with a brief comment."}
+{"prompt": "Explain knowledge distillation and why it helps compress large models."}
+{"prompt": "How does 4-bit quantization reduce memory while keeping acceptable accuracy?"}
+{"prompt": "List three challenges of running multimodal models on smartphones."}
+{"prompt": "Write a concise product description for an edge AI assistant named MaiLLM."}
+{"prompt": "What is a KV cache, and why does it grow with sequence length?"}
